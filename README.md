@@ -2,6 +2,7 @@
 
 ------------------
 Front-End Developer
+
 ![Front-End](https://user-images.githubusercontent.com/76048512/216566500-a1c08415-ea3f-44a1-904d-c28f86ae450e.gif)
 
 
