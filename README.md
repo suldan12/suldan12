@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/148731/screenshots/6662134/nowhiring-2019-dribbble.gif)](https://rishavchanda.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7N-dlU4g9CLX4Ia2cHXPWPLLvkG2e2B0g35sC1y2ZxnN3WOf4eCuDmdbubhvqJg_xz3E&usqp=CAU)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sultan Adem</h1>
 <h3 align="center">A passionate frontend developer from Somalia</h3>
 
