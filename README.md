@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sultan Adem</h1>
 <h3 align="center">A passionate frontend developer from Somalia</h3>
-[![MasterHead](https://user-images.githubusercontent.com/76048512/216566500-a1c08415-ea3f-44a1-904d-c28f86ae450e.gif)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
  <img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suldan12&label=Profile%20views&color=0e75b6&style=flat" alt="suldan12" /> </p>
