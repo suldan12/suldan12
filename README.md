@@ -1,5 +1,4 @@
-[![MasterHead](![image](https://github.com/suldan12/suldan12/assets/81590161/ffcc9dfe-4134-4cbc-b3b5-63f6078ace3e)
-)](https://rishavchanda.io)
+[![MasterHead](![image](https://user-images.githubusercontent.com/76048512/216566500-a1c08415-ea3f-44a1-904d-c28f86ae450e.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sultan Adem</h1>
 <h3 align="center">A passionate frontend developer from Somalia</h3>
 
