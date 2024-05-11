@@ -1,4 +1,4 @@
-### Hi there 👋 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Sultan Adem
+### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Sultan Adem
 
 ------------------
 Front-End Developer
@@ -19,7 +19,8 @@ Front-End Developer
 
 - 📫 How to reach me **Suldann2@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡  I love reading books, watching football, movies, and tv-series and playing board games and video games.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
